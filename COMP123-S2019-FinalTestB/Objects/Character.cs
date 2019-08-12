@@ -28,7 +28,7 @@ namespace COMP123_S2019_FinalTestB.Objects
         public int HitPoints { get; set; }
 
         // Character Class
-        public string CharacterCLass { get; set; }
+        public CharacterClass Class{ get; set; }
         public int Level { get; set; }
 
         //Equipment
